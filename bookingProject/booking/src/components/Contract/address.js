@@ -1,0 +1,1 @@
+export const Booking = "0x88f5D524F97C6AEc701cD856853988D38b83Af72";

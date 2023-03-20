@@ -1,0 +1,1 @@
+export const MarketPlace = "0xb1E61eE9495577969eb6a1A3e6CE0899BC2421f6";
